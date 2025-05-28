@@ -1,1 +1,1 @@
-export type UserType = {name}
+export type UserType = {name : string}
